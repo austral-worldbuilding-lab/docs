@@ -16,7 +16,7 @@ La base de datos modela esto mediante una relación recursiva en la entidad `Pro
 ### Visualización
 El frontend utiliza esta estructura para mostrar un árbol o línea de tiempo, permitiendo al usuario navegar entre distintas versiones del mundo.
 
-![Diagrama de Iteración de Mundos](images/Iteracion%20de%20mundos.png)
+![Diagrama de Iteración de Mundos](images/iteracion-de-mundos.png)
 > El diagrama muestra cómo un proyecto "Raíz" puede ramificarse en múltiples iteraciones.
 
 ---
